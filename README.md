@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=Oliver%20Lo78&fontSize=90)
-
-# Hi there I'm Oliver 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=HiThereI'm%20Oliver👋&fontSize=70)
 
 ![giphy](https://user-images.githubusercontent.com/109435666/209471570-a4a0aa6a-b203-4f81-bc51-ab2aae3ca784.gif)
 
@@ -15,3 +13,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: I have a twin brother I love reading, basketball, and jui-jitsu...
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=%20&fontSize=90)
