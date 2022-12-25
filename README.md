@@ -3,6 +3,8 @@
 <!--
 **oliverLo78/oliverLo78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![star wars nerd](https://giphy.com/gifs/xbox-xbox-one-series-x-star-wars-squadrons-Ymtm7S6hu9OJDgyPZ4)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
