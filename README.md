@@ -3,7 +3,6 @@
 ### A little about me I'm like spongue absorbing knowledge every day taking part in activities such as traveling to new places. I have a twin brother recently married to my lovely arimoana(wifey's nickname) love reading, basketball, and jui-jitsu.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78&layout=compact)](https://github.com/oliverLo78/github-readme-stats)
-Demo
 
 ## oliverLo78 repository because its `README.md`.
 
@@ -17,6 +16,11 @@ Demo
 - 😄 Pronouns: he/him...
 
 ![giphy](https://user-images.githubusercontent.com/109435666/209471570-a4a0aa6a-b203-4f81-bc51-ab2aae3ca784.gif)
+
+### Technologies 
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+[![HTML Shield](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS Shield](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=272727)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 [![oliverLo78's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
 
