@@ -3,7 +3,7 @@
 ### About Me
 #### I'm like spongue absorbing knowledge every day taking part in activities such as traveling to new places. I have a twin brother recently married to my lovely arimoana(wifey's nickname) love reading, basketball, and jui-jitsu.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78&layout=compact)](https://github.com/oliverLo78/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
 
 ## oliverLo78 repository because its `README.md`.
 
