@@ -45,6 +45,6 @@
 [![DBeaver Shield](https://img.shields.io/badge/DBeaver-58bbbd?&style=for-the-badge&logo=datadog&logoColor=white)](https://dbeaver.io/) 
 [![Insomnia Shield](https://img.shields.io/badge/Insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white)](https://docs.insomnia.rest/)
 
-[![oliverLo78's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
+[![oliverLo78's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=%20&fontSize=90)
