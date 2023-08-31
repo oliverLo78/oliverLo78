@@ -16,7 +16,7 @@
 - 📫 How to reach me:  Gmail: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
 - 😄 Pronouns: he/him...
 
-![giphy](https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA)
+![giphy](https://media.giphy.com/media/ONrtGg6kB9dne4dxep/giphy.gif)
 
 ### Technologies 
 
