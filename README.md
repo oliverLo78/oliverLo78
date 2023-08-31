@@ -16,7 +16,7 @@
 - 📫 How to reach me:  Gmail: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
 - 😄 Pronouns: he/him...
 
-![giphy](https://user-images.githubusercontent.com/109435666/209471570-a4a0aa6a-b203-4f81-bc51-ab2aae3ca784.gif)
+![giphy](https://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif)
 
 ### Technologies 
 
