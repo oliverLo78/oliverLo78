@@ -4,8 +4,8 @@
 #### I'm like sponge absorbing knowledge every day taking part in activities such as traveling to new places. I have a twin brother recently married to my lovely arimoana(wifey's nickname) love reading, basketball, and jui-jitsu.
 
 ![giphy](https://media.giphy.com/media/ONrtGg6kB9dne4dxep/giphy.gif)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78)]
-![statistics](https://github.com/oliverLo78/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats
+![GitHub Stats](github-readme-stats/?username=oliverLo78.vercel.app)
 
 ## oliverLo78 repository because its `README.md`.
 
