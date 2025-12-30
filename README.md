@@ -2,7 +2,7 @@
 
 ### About Me
 #### I'm like sponge absorbing knowledge every day taking part in activities such as traveling to new places. I have a twin brother recently married to my lovely arimoana(wifey's nickname) love reading, basketball, and jui-jitsu.
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=oliverLo78)
 ![giphy](https://media.giphy.com/media/ONrtGg6kB9dne4dxep/giphy.gif)
 ![Top Langs](github-readme-stats.vercel.app)
 ![GitHub Stats](github-readme-stats.vercel.app)
