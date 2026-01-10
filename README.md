@@ -57,8 +57,6 @@ Outside of code: traveling , reading, basketball, and Brazilian Jiu-Jitsu.
 
 ---
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78&show_icons=true&theme=tokyonight)
-
 ## 📌 Featured Projects
 
 ### 🎵 Jubilee Vinyl
