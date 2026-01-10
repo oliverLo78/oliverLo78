@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Oliver Lopez
+# 🥋. Hi, I’m Oliver Lopez
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Full-Stack%20Web%20Developer&fontSize=60)
 
@@ -15,7 +15,7 @@ I enjoy turning real business requirements into **clean, scalable web applicatio
 
 I bring a mix of **technical problem-solving, collaboration, and leadership**, and I continuously improve through hands-on projects, refactors, and real-world deployments.
 
-Outside of code: traveling, reading, basketball, and Brazilian Jiu-Jitsu 🥋.
+Outside of code: traveling , reading, basketball, and Brazilian Jiu-Jitsu.
 
 ---
 
@@ -56,6 +56,8 @@ Outside of code: traveling, reading, basketball, and Brazilian Jiu-Jitsu 🥋.
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 
 ---
+
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78&show_icons=true&theme=tokyonight)
 
 ## 📌 Featured Projects
 
