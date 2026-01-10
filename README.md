@@ -1,4 +1,4 @@
-# 🥋. Hi, I’m Oliver Lopez
+# 🥋 Hi, I’m Oliver Lopez
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Full-Stack%20Web%20Developer&fontSize=60)
 
