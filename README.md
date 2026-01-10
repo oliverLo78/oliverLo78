@@ -7,7 +7,7 @@
 ![Top Langs](github-readme-stats.vercel.app)
 ![GitHub Stats](github-readme-stats.vercel.app)
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## oliverLo78 repository because its `README.md`.
 
@@ -47,7 +47,5 @@
 [![Heroku Shield](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what) 
 [![DBeaver Shield](https://img.shields.io/badge/DBeaver-58bbbd?&style=for-the-badge&logo=datadog&logoColor=white)](https://dbeaver.io/) 
 [![Insomnia Shield](https://img.shields.io/badge/Insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white)](https://docs.insomnia.rest/)
-
-[![oliverLo78's GitHub stats](https://github-readme-stats.vercel.app/api/?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=%20&fontSize=90)
