@@ -7,7 +7,7 @@
 ![Top Langs](github-readme-stats.vercel.app)
 ![GitHub Stats](github-readme-stats.vercel.app)
 
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78)](https://github.com/oliverLo78/github-readme-stats)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverLo78&show_icons=true&theme=gruvbox)
 
 ## oliverLo78 repository because its `README.md`.
 
