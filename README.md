@@ -1,85 +1,111 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi%20There%20I'm%20Oliver👋&fontSize=70)
+# 👋 Hi, I’m Oliver Lopez
 
-### About Me
-#### I'm like sponge absorbing knowledge every day taking part in activities such as traveling to new places. I have a twin brother recently married to my lovely arimoana(wifey's nickname) love reading, basketball, and jui-jitsu.
-![Github stats](https://github-readme-stats.vercel.app/api?username=oliverLo78)
-![giphy](https://media.giphy.com/media/ONrtGg6kB9dne4dxep/giphy.gif)
-![Top Langs](github-readme-stats.vercel.app)
-![GitHub Stats](github-readme-stats.vercel.app)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Full-Stack%20Web%20Developer&fontSize=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+**Full-Stack JavaScript Developer**  
+📍 Orlando, FL | Open to on-site & hybrid roles  
+🧠 MERN Stack | REST APIs | UI/UX-focused Frontend
 
-## oliverLo78 repository because its `README.md`.
+---
 
+## 🚀 About Me
 
-- 🔭 I’m currently working on creating REACT applications...
-- 🌱 I’m currently learning full stack development...
-- 👯 I’m looking to collaborate on RESTFUL API...
-- 🤔 I’m looking for help with handlebars to do full CRUD in MVC framework...
-- 💬 Ask me about mern apps that implement full CRUD...
-- 📫 How to reach me:  Gmail: [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
-- 😄 Pronouns: he/him...
+I’m a **results-driven Full-Stack Developer** with a strong frontend eye and solid backend fundamentals.  
+I enjoy turning real business requirements into **clean, scalable web applications**.
 
+I bring a mix of **technical problem-solving, collaboration, and leadership**, and I continuously improve through hands-on projects, refactors, and real-world deployments.
 
-### Technologies 
+Outside of code: traveling, reading, basketball, and Brazilian Jiu-Jitsu 🥋.
 
-[![HTML5 Shield](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  
-[![CSS Shield](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=272727)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Python Shield](https://img.shields.io/badge/Python-306998?&style=for-the-badge&logo=python&logoColor=green)](https://developer.mozilla.org/en-US/docs/Web/Python)
-[![React Shield](https://img.shields.io/badge/React-00bfff?&style=for-the-badge&logo=react&logoColor=lightblue)](https://developer.mozilla.org/en-US/docs/Web/React)
-[![NPM Shield](https://img.shields.io/badge/NPM-333333?&style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) 
-[![jQuery Shield](https://img.shields.io/badge/jQuery-0769AD?&style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/) 
-[![Bootstrap CSS Shield](https://img.shields.io/badge/Bootstrap_CSS-7952B3?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
-[![Tailwind CSS Shield](https://img.shields.io/badge/Tailwind_CSS-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
-[![Git Shield](https://img.shields.io/badge/GIT-F05033?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![Express Shield](https://img.shields.io/badge/Express-000000?&style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/) 
-[![MongoDB Shield](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
-[![mySQL Shield](https://img.shields.io/badge/mySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-[![Mongoose Shield](https://img.shields.io/badge/Mongoose-AA2929?&style=for-the-badge&logo=matrix&logoColor=white)](https://mongoosejs.com/) 
-[![Sequelize Shield](https://img.shields.io/badge/Sequelize-52B0E7?&style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)  
-[![Handlebars Shield](https://img.shields.io/badge/Handlebars-E34F26?&style=for-the-badge&logo=handlebars.js&logoColor=white)](https://handlebarsjs.com/)
-[![Materialize Shield](https://img.shields.io/badge/Bulma_CSS-eb7374?&style=for-the-badge&logo=matomo&logoColor=white)](https://bulma.com/)
+---
 
-[![GitHub Shield](https://img.shields.io/badge/GitHub-121011?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
-[![VS Code Shield](https://img.shields.io/badge/VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Canva Shield](https://img.shields.io/badge/Canva-333333?&style=for-the-badge&logo=canva)](https://www.canva.com/) 
-[![Heroku Shield](https://img.shields.io/badge/Heroku-430098?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/what) 
-[![DBeaver Shield](https://img.shields.io/badge/DBeaver-58bbbd?&style=for-the-badge&logo=datadog&logoColor=white)](https://dbeaver.io/) 
-[![Insomnia Shield](https://img.shields.io/badge/Insomnia-4000BF?&style=for-the-badge&logo=insomnia&logoColor=white)](https://docs.insomnia.rest/)
+## 🧠 What I Do Best
 
-<h1 align="center">Hi 👋, I'm Oliver Lopez</h1>
-<h3 align="center">A passionate frontend developer from Orlando born in Dominican Republic</h3>
+- Build **React applications** with clean component architecture
+- Design and consume **RESTful APIs**
+- Implement **full CRUD** using MongoDB and MySQL
+- Translate designs into **mobile-first, accessible UIs**
+- Debug, refactor, and improve existing codebases
+- Work comfortably in **Agile / Scrum** teams
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliverlo78&label=Profile%20views&color=0e75b6&style=flat" alt="oliverlo78" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliverlo78" alt="oliverlo78" /></a> </p>
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on REACT applications [jubilee-vinyl](https://github.com/oliverLo78/jubilee-vinyl)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-00bfff?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-- 🌱 I’m currently learning full stack development **React, MongoDB, Heroku**
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize)
+![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge)
 
-- 👯 I’m looking to collaborate on RESTFUL API [Rose2Rough-2.0](https://github.com/oliverLo78/Rose2Rough-2.0)
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 
-- 🤝 I’m looking for help with full stack development [father-thoughts-app](https://github.com/oliverLo78/father-thoughts-app)
+---
 
-- 👨‍💻 Some of my projects are available at [https://oliverlo78.github.io/01-portfolio/](https://oliverlo78.github.io/01-portfolio/)
+## 📌 Featured Projects
 
-- 📫 How to reach me Gmail: (mailto:oliverberto@gmail.com) **oliverberto@gmail.com**
+### 🎵 Jubilee Vinyl
+**React | API Integration | Frontend Architecture**  
+🔗 https://github.com/oliverLo78/jubilee-vinyl  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oliver-lopez78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver-lopez78" height="30" width="40" /></a>
-</p>
+A vinyl-focused React application emphasizing reusable components, clean UX, and API-driven data.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverlo78&show_icons=true&locale=en&layout=compact" alt="oliverlo78" /></p>
+### 🍷 Rose to Rough 2.0
+**Full-Stack | REST API | MongoDB**  
+🔗 https://github.com/oliverLo78/Rose2Rough-2.0  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverlo78&show_icons=true&locale=en" alt="oliverlo78" /></p>
+Wine review platform with authentication, full CRUD operations, and structured backend modeling.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliverlo78&" alt="oliverlo78" /></p>
+---
 
+### 🧠 Father Thoughts
+**MERN | Authentication | Full CRUD**  
+🔗 https://github.com/oliverLo78/father-thoughts-app  
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=%20&fontSize=90)
+A journaling and reflection app showcasing user authentication, protected routes, and database relationships.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliverLo78&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverLo78&layout=compact)
+
+---
+
+## 🌐 Portfolio & Contact
+
+- 👨‍💻 **Portfolio:** https://oliverlo78.github.io/01-portfolio/
+- 💼 **LinkedIn:** https://linkedin.com/in/oliver-lopez78
+- 📫 **Email:** [oliverberto@gmail.com](mailto:oliverberto@gmail.com)
+
+---
+
+## 🤝 Open To
+
+- Junior / Intermediate Frontend or Full-Stack roles
+- On-site opportunities in **Orlando, FL**
+- Collaborative projects involving **React, APIs, and UI/UX improvements**
+
+---
+
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=oliverLo78&label=Profile%20views&color=0)
+
